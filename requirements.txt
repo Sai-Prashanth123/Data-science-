@@ -1,0 +1,17 @@
+tqdm
+ensure == 1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+pyYAML
+tensorflow
+pandas
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box == 6.0.2
+-e .
