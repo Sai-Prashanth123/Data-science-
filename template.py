@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s')
 
-project_name = "Data_science"  # Consider using an underscore instead of a space for file paths
+project_name = "Datascience"  # Consider using an underscore instead of a space for file paths
 list_of_files = [
     ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",

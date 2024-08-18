@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 _version_ = "0.0.0"
 
-REPO_NAME = "Data science"
+REPO_NAME = "Datascience"
 AUTHOR_USER_NAME = "Sai-Prashanth"
-SRC_REPO = "Data science"
+SRC_REPO = "Datascience"
 AUTHOR_EMAIL = "saip00519@gmail.com"
 
 setuptools.setup(
